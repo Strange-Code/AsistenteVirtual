@@ -1,6 +1,6 @@
-## ASISTENTE VIRUTAL :alien:
+## ASISTENTE VIRTUAL :alien:
 
- Asistente virutal que realiza tareas por comando de voz que programes, El limite es tu imaginacion ;)
+ Asistente virtual que realiza tareas por comando de voz que programes, El limite es tu imaginacion ;)
    
  1. Instalar librerias, si ejecutas el siguiente comando en la consola de tu sistema operativo se descargara automaticamente:
     >   pip install selenium
