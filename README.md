@@ -4,8 +4,11 @@
    
  1. Instalar librerias, si ejecutas el siguiente comando en la consola de tu sistema operativo se descargara automaticamente:
     >   pip install selenium
+    >   
     >   pip install gtts
+    >   
     >   pip install playsound
+    >   
     >   pip install speech_recognition
 
  1. Instalar pyAudio, si ejecutas el siguiente comando en la consola de tu sistema operativo se descargara automaticamente:
