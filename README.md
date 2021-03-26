@@ -13,6 +13,7 @@
 
  1. Instalar pyAudio, si ejecutas el siguiente comando en la consola de tu sistema operativo se descargara automaticamente:
     >   pip install pipwin
+    >   
     >   pipwin install PyAudio
 	
  1. Descargar el webDriver que corresponda a su browser preferido
